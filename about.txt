@@ -1,3 +1,4 @@
 Hello! My name is Baba
 I am learning Git an GitHub
 This is my first Git practice assignment.
+My goal is to become a skilled software developer.
